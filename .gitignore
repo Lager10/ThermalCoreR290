@@ -1,0 +1,9 @@
+# CAD-Sicherungen und temporäre Dateien
+*.bak
+*.autosave
+*.tmp
+~$*
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
